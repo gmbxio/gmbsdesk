@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("nn\n\nnn\nnn/n/nnn/n");
+    printf("hello world");
     return 0;
 }
