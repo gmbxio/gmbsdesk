@@ -1,1 +1,1 @@
-Hi there , just a few basics in coding.
+Hi there , here are just a few basics in coding.
